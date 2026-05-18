@@ -122,21 +122,6 @@ This project demonstrates experience with:
 
 ---
 
-# Repository Structure
-
-```text
-pandas-challenge/
-│
-├── PyCitySchools/
-│   ├── Resources/
-│   ├── PyCitySchools.ipynb
-│   └── analysis/
-│
-└── README.md
-```
-
----
-
 # Key Insights
 
 Some major findings from this analysis include:
